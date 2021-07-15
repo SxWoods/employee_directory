@@ -1,0 +1,29 @@
+{
+    "name": "employee_directory",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+      "console.table": "^0.10.0",
+      "dotenv": "^8.2.0",
+      "inquirer": "^8.0.0",
+      "mysql": "^2.18.1",
+      "util": "^0.12.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "node index",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/SxWoods/employee_directory"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/SxWoods/employee_directory"
+    },
+    "homepage": "https://github.com/SxWoods/employee_directory#readme"
+  }
